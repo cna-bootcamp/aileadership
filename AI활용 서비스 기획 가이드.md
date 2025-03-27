@@ -33,12 +33,12 @@
 바로가기: [Claude](https://claude.ai/)  
   
 **1.Claude.ai에 Project 생성**   
-  - 좌측 상단의 Claude로고에 마우스 오버 후 'Projects' 선택  
+  - 좌측 상단의 Claude로고에 마우스 오버 후 '프로젝트' 선택  
     ![](images/2025-03-27-10-21-43.png)  
   - Project 페이지의 우측 상단의 '프로젝트 생성성' 클릭  
   - 첫번째 항목에 정의한 고객유형에 적절한 프로젝트명 입력. 두번째 항목은 비워도 됨   
     ![](images/2025-03-27-10-23-17.png)  
-    
+
 **2.Instructions 생성**  
 claude에서 아래 예시와 같은 프롬프트로 요청  
 ```
